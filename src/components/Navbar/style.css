@@ -1,0 +1,42 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 97%;
+    background-color: transparent; /* Adicione a cor de fundo desejada */
+    color: #fff; /* Adicione a cor de texto desejada */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px; 
+    z-index: 999; 
+  }
+  
+  .navbar .image {
+    height: 135px;
+    object-fit: cover;
+    width: 326px;
+  }
+  
+  .navbar .links {
+    color: #ffffff;
+    font-family: "Readex Pro", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    height: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 133px;
+  }
+  
+  .navbar .links:hover {
+    color: rgb(148, 145, 145);
+    transition: 0.3s;
+  }
+  
+  .navbar .search-icon {
+    height: 45px;
+    object-fit: cover;
+    width: 40px;
+  }

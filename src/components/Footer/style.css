@@ -1,0 +1,100 @@
+.footer {
+    background-color: #d9d9d9;
+    height: 234px;
+    position: relative;
+    width: 1434px;
+    display: flex;
+  }
+  
+  .footer .portoLogo {
+    height: 113px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 32px;
+    width: 340px;
+  }
+  
+  .footer .text-wrapper {
+    color: #000000;
+    font-family: "Readex Pro", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 32px;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 145px;
+    width: 407px;
+  }
+  
+  .footer .link-footer {
+    color: #000000;
+    font-family: "Readex Pro", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    height: 25px;
+    left: 1238px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 46px;
+    width: 182px;
+  }
+  
+  .footer .link-footer-2 {
+    color: #000000;
+    font-family: "Readex Pro", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    height: 25px;
+    left: 1241px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 104px;
+    width: 182px;
+  }
+  
+  .footer .link-footer-3 {
+    color: #000000;
+    font-family: "Readex Pro", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    height: 25px;
+    left: 1241px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 157px;
+    width: 182px;
+  }
+  
+  .footer .linkedin {
+    height: 35px;
+    left: 1194px;
+    object-fit: cover;
+    position: absolute;
+    top: 99px;
+    width: 35px;
+  }
+  
+  .footer .twitter {
+    height: 35px;
+    left: 1194px;
+    object-fit: cover;
+    position: absolute;
+    top: 156px;
+    width: 36px;
+  }
+  
+  .footer .instagram {
+    height: 35px;
+    left: 1194px;
+    object-fit: cover;
+    position: absolute;
+    top: 42px;
+    width: 35px;
+  }
+  
