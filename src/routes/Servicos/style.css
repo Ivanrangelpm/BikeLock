@@ -1,0 +1,43 @@
+.content {
+    height: 534px;
+    width: 531px;
+    padding: 100px;
+  }
+  
+  .content .text-group {
+    height: 614px;
+    position: relative;
+    top: -1px;
+  }
+  
+  .content .text-1 {
+    color: #000000;
+    font-family: "Readex Pro", Helvetica;
+    font-size: 50px;
+    font-weight: 600;
+    height: 178px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: -100px;
+    width: 531px;
+    text-align: left;
+  }
+  
+  .content .text-2 {
+    color: #000000;
+    font-family: "Readex Pro", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    height: 466px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 149px;
+    width: 462px;
+    text-align: left;
+  }
+  
